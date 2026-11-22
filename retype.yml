@@ -1,0 +1,23 @@
+input:
+output: build
+url: https://perspectivecomputing-source.github.io/enzonedocs/
+branding:
+  logo: static/enzone-logo.png
+  logoDark: /static/enzone-logo.png
+  title: Enzone Docs
+  label:
+
+meta:
+  title: " - Enzone Documentation"
+
+edit:
+  repo: "https://github.com/perspectivecomputing-source/enzonedocs/edit/"
+  branch: master
+
+links:
+  - text: Github
+    link: https://github.com/perspectivecomputing-source/enzone/
+    icon: /static/github.png
+
+footer:
+  copyright: "Enzone documentation"
