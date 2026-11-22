@@ -17,7 +17,7 @@ I'll use khttp for the Kotlin implementation because of the ease of use, if you 
 **Python**
 ```python
 import requests
-url = "https://recloudstream.github.io/csdocs/devs/scraping/"
+url = "https://perspectivecomputing-source.github.io/enzonedocs/devs/scraping/"
 response = requests.get(url)
 print(response.text)  # Prints the readme
 ```
@@ -40,7 +40,7 @@ dependencies {
 In main.kt
 ```kotlin
 fun main() {
-    val url = "https://recloudstream.github.io/csdocs/devs/scraping/"
+    val url = "https://perspectivecomputing-source.github.io/enzonedocs/devs/scraping/"
     val response = khttp.get(url)
     println(response.text)
 }
@@ -234,7 +234,7 @@ I'll use khttp for the Kotlin implementation because of the ease of use, if you 
 **Python**
 ```python
 import requests
-url = "https://recloudstream.github.io/csdocs/devs/scraping/"
+url = "https://perspectivecomputing-source.github.io/enzonedocs/devs/scraping/"
 response = requests.get(url)
 print(response.text)  # Prints the readme
 ```
@@ -257,7 +257,7 @@ dependencies {
 In main.kt
 ```kotlin
 fun main() {
-    val url = "https://recloudstream.github.io/csdocs/devs/scraping/"
+    val url = "https://perspectivecomputing-source.github.io/enzonedocs/devs/scraping/"
     val response = khttp.get(url)
     println(response.text)
 }
