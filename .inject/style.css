@@ -9,17 +9,31 @@ nav li img, .simplebar-content li img {
 :root {
     --docs-accent: #e8e8ec;
     --docs-bg: #0a0a0c;
+    --docs-ink: #f4f4f5;
+    --docs-muted: #a1a1aa;
 }
 
+html,
 body {
+    color: var(--docs-ink);
     background:
-        radial-gradient(ellipse at 15% 0%, rgba(40, 40, 48, 0.55) 0%, transparent 42%),
-        radial-gradient(ellipse at 85% 100%, rgba(28, 28, 34, 0.5) 0%, transparent 40%),
-        var(--docs-bg, #0a0a0c);
+        radial-gradient(ellipse at 12% 0%, rgba(48, 48, 56, 0.55) 0%, transparent 45%),
+        radial-gradient(ellipse at 88% 100%, rgba(24, 24, 30, 0.55) 0%, transparent 42%),
+        var(--docs-bg);
 }
 
 .brand img,
 .navbar-brand img {
-    max-height: 28px;
+    max-height: 30px;
     width: auto;
+}
+
+.brand,
+.navbar-brand {
+    font-weight: 650;
+    letter-spacing: 0.01em;
+}
+
+a {
+    color: var(--docs-accent);
 }

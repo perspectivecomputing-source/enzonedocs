@@ -18,7 +18,7 @@ This will not work with some storage system like google drive, mega etc. So, kee
 
 !!!info The basic process here
 1. Copy the download link
-2. Paste it in [!badge variant="dark" icon="/static/base.png" text="Enzone"] → [!badge variant="dark" icon="download" text="Downloads"] → [!badge variant="dark" text="Stream"] and press [!badge variant="dark" text="Play"]
+2. Paste it in [!badge variant="dark" icon="/static/enzone-logo.png" text="Enzone"] → [!badge variant="dark" icon="download" text="Downloads"] → [!badge variant="dark" text="Stream"] and press [!badge variant="dark" text="Play"]
 !!!
 
 ___
@@ -36,7 +36,7 @@ Now copy the download link.
 ===
 
 ==- Step 3
-Paste it in [!badge variant="dark" icon="/static/base.png" text="Enzone"] → [!badge variant="dark" icon="download" text="Downloads"] → [!badge variant="dark" text="Stream"] and press [!badge variant="dark" text="Play"] .After loading a bit, it'll start the streaming.
+Paste it in [!badge variant="dark" icon="/static/enzone-logo.png" text="Enzone"] → [!badge variant="dark" icon="download" text="Downloads"] → [!badge variant="dark" text="Stream"] and press [!badge variant="dark" text="Play"] .After loading a bit, it'll start the streaming.
 ![](https://media.discordapp.net/attachments/1015131233824538624/1066031491005567006/m4v3Xhw.png)
 ![](https://cdn.discordapp.com/attachments/1047169440246136832/1066028940864520212/xPcRTEO.png)
 
@@ -65,7 +65,7 @@ Copy the download link from the downloading section.
 ==- Step 4
 Now paste it in Enzone and stream.
 ![](https://media.discordapp.net/attachments/1015131233824538624/1066039233267114015/HUNl9um.png)
-![](https://media.discordapp.net/attachments/870761489101901954/1066041356943900693/Screenshot_20230120_180738_Enzone_Beta.jpg)
+![](https://media.discordapp.net/attachments/870761489101901954/1066041356943900693/Screenshot_20230120_180738_CloudStream_Beta.jpg)
 ===
 
 ___

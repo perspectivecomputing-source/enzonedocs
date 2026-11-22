@@ -6,7 +6,7 @@ icon: kebab-horizontal
 
 ## Sub/Dub Filter for Anime
 
-[!badge variant="dark" icon="/static/base.png" text="Enzone"] → [!badge variant="dark" icon="/static/gear.png" text="Settings"] → [!badge variant="dark"  text="Providers"] → [!badge variant="dark"  text="Display Dubbed/Subbed Anime"] and apply your wanted filter.
+[!badge variant="dark" icon="/static/enzone-logo.png" text="Enzone"] → [!badge variant="dark" icon="/static/gear.png" text="Settings"] → [!badge variant="dark"  text="Providers"] → [!badge variant="dark"  text="Display Dubbed/Subbed Anime"] and apply your wanted filter.
 
 ## NSFW
 

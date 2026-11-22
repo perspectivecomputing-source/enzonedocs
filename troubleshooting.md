@@ -17,7 +17,7 @@ If the repositories are not loading in [the official site](https://recloudstream
 
 ==- Backup error
 Change/reselect the download location.
-[!badge variant="dark" icon="/static/base.png" text="Enzone"] → [!badge variant="dark" icon="/static/gear.png" text="Settings"] → [!badge variant="dark" icon="download" text="download path"] and then select a custom location.
+[!badge variant="dark" icon="/static/enzone-logo.png" text="Enzone"] → [!badge variant="dark" icon="/static/gear.png" text="Settings"] → [!badge variant="dark" icon="download" text="download path"] and then select a custom location.
 ===
 
 ==- Restore backup error
@@ -25,7 +25,7 @@ Rename the extension of the file from `json to txt`. Now try again to read the b
 ===
 
 ==- Error: Out of memory
-Change the video cache on disk. [!badge variant="dark" icon="/static/base.png" text="Enzone"] → [!badge variant="dark" icon="/static/gear.png" text="Settings"] → [!badge variant="dark" text="player"] > [!badge variant="dark" icon="server" text="video cache on disk"] and set a **lower amount of cache**.
+Change the video cache on disk. [!badge variant="dark" icon="/static/enzone-logo.png" text="Enzone"] → [!badge variant="dark" icon="/static/gear.png" text="Settings"] → [!badge variant="dark" text="player"] > [!badge variant="dark" icon="server" text="video cache on disk"] and set a **lower amount of cache**.
 ===
 
 ==- Safe mode on
@@ -46,7 +46,7 @@ Clear the app cache and restart the app. You can also set a lower amount cache t
 ==- Subtitles casting issue
 If subtitle isn't casting on the tv with the native casting system., try casting using [this app](https://play.google.com/store/apps/details?id=com.instantbits.cast.webvideo).
 
-[!badge variant="dark" icon="/static/base.png" text="Enzone"] → [!badge variant="dark" text="Episode page"] → **Press and hold the epsiode** → [!badge variant="dark" text="play with Web Video Cast"] → **choose the link and then cast.** *The subtitle selection maybe not as good as Enzone.*
+[!badge variant="dark" icon="/static/enzone-logo.png" text="Enzone"] → [!badge variant="dark" text="Episode page"] → **Press and hold the epsiode** → [!badge variant="dark" text="play with Web Video Cast"] → **choose the link and then cast.** *The subtitle selection maybe not as good as Enzone.*
 ===
 
 ## Sorastream
