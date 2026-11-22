@@ -1,4 +1,4 @@
-input:
+﻿input:
 output: build
 url: https://perspectivecomputing-source.github.io/enzonedocs/
 branding:
@@ -12,7 +12,7 @@ meta:
 
 edit:
   repo: "https://github.com/perspectivecomputing-source/enzonedocs/edit/"
-  branch: master
+  branch: main
 
 links:
   - text: Github
